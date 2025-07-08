@@ -1,3 +1,4 @@
-# pip install PyAudio
-# pip install SpeechRecognition
+# Install-modules
+pip install PyAudio
+pip install SpeechRecognition
 
